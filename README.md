@@ -1,0 +1,2 @@
+# note4ProgrammingBitcoin
+此仓库为阅读ProgramingBitcoin的读书笔记，鉴于此书目前没有汉化版本，个人将尝试对其进行有限的汉化并开源分享
